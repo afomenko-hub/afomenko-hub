@@ -8,11 +8,11 @@ I manage cross-functional web, product launch, and marketing initiatives across 
 
 ## Selected Impact
 
-- **Marketing campaigns:** Increased lead generation by **20%** through targeted vertical landing pages.
 - **Product launch:** Led the Acronis Cyber Protect v17 web launch and major page revamp, contributing to **+7% conversion, +20% engagement, and +20% month-over-month Online Corporate Cloud purchases**.
 - **Campaign delivery:** Delivered a partner marketing campaign in **3 weeks instead of the typical 6**, coordinating assets across 8 languages.
 - **Interactive product demos:** Launched an end-to-end Acronis Cyber Protect product tour using Navattic and supported adoption across partner channels.
 - **AI-powered search:** Defined requirements, user stories, conversational flows, and Jira tasks for a website search initiative using Vertex AI Search.
+- **Marketing campaigns:** Increased lead generation by **20%** through targeted vertical landing pages.
 - **Partner Portal:** Led discovery and requirements definition for user journey and asset-findability improvements.
 
 ## Core Expertise
