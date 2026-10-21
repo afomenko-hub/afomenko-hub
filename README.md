@@ -26,9 +26,9 @@ I manage cross-functional web, product launch, and marketing initiatives across 
 - Digital Experience & Conversion Optimization
 - AI Use-Case Scoping & Digital Transformation
 
-## Tools
+## Tools and Technology Stack
 
-Jira · Confluence · Salesforce · CloudBlue Commerce · Navattic · VWO · GA4 · Power BI · Vertex AI Search
+Jira · Confluence · Salesforce · CloudBlue Commerce · Navattic · VWO · GA4 · Power BI · Vertex AI Search · Agile · Scrum · Kanban ·
 
 ## What Sets Me Apart
 
