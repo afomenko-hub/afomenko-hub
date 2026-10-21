@@ -13,7 +13,7 @@ I manage cross-functional web, product launch, and marketing initiatives across 
 - **Interactive product demos:** Launched an end-to-end Acronis Cyber Protect product tour using Navattic and supported adoption across partner channels.
 - **AI-powered search:** Defined requirements, user stories, conversational flows, and Jira tasks for a website search initiative using Vertex AI Search.
 - **Marketing campaigns:** Increased lead generation by **20%** through targeted vertical landing pages.
-- **Partner Portal:** Led discovery and requirements definition for user journey and asset-findability improvements.
+- **Partner Portal:** Led discovery and requirements definition for improving partner user journeys and asset findability, exploring AI-enabled asset discovery to help partners find relevant content more efficiently. Aligned stakeholder requirements, prioritized needs, and handed the documented scope to the implementation team.
 
 ## Core Expertise
 
